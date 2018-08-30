@@ -109,7 +109,8 @@ Hunter Loftis [[Twitter](https://twitter.com/hunterloftis)] [[LinkedIn](https://
 Eben Freeman [[Twitter](https://twitter.com/_emfree_)]
 
 - [Presentation](https://speakerdeck.com/emfree/allocator-wrestling)
-- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling)
+- [Live Blog (Sourcegraph)](https://about.sourcegraph.com/go/gophercon-2018-allocator-wrestling)
+- [Live Blog (@seebs)](https://github.com/seebs/notes/blob/master/allocator.md)
 - Video
 
 ### Binary Search Tree AlGOrithms
