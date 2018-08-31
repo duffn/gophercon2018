@@ -238,7 +238,7 @@ Matt Layher [[Twitter](https://twitter.com/mdlayher)]
 ### The Importance of Beginners
 Natalie Pistunovich [[Twitter](https://twitter.com/nataliepis)] [[LinkedIn](https://www.linkedin.com/in/nataliepistunovich/)]
 
-- Presentation
+- [Presentation](https://github.com/Pisush/Public-Speaking/blob/master/Slides/gopherconUS.pdf)
 - Video
 
 ## Contributing
