@@ -128,7 +128,7 @@ Sugu Sougoumarane [[Twitter](https://twitter.com/ssougou)] [[LinkedIn](https://w
 ### Go Says WAT?
 Jon Bodner [[Twitter](https://twitter.com/jonbodner)] [[LinkedIn](https://www.linkedin.com/in/jonbodner/)]
 
-- Presentation
+- [Presentation](https://www.slideshare.net/jonbodner/go-says-wat)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-go-says-wat)
 - Video
 
