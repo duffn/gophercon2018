@@ -101,7 +101,7 @@ Kat Zien [[Twitter](https://twitter.com/kasiazien)] [[LinkedIn](https://www.link
 ### Painting with Light
 Hunter Loftis [[Twitter](https://twitter.com/hunterloftis)] [[LinkedIn](https://www.linkedin.com/in/hunterloftis/)]
 
-- Presentation
+- [Presentation](https://www.slideshare.net/HunterLoftis1/painting-with-light-3d-rendering-in-golang)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-painting-with-light)
 - Video
 
