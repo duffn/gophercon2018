@@ -10,7 +10,7 @@ Aarti Parikh [[Twitter](https://twitter.com/classyhacker)] [[LinkedIn](https://w
 
 William Kennedy [[Twitter](https://twitter.com/goinggodotnet)] [[LinkedIn](https://www.linkedin.com/in/william-kennedy-5b318778/)]
 
-- Presentation
+- [Presentation](https://github.com/ardanlabs/gotraining/blob/master/topics/courses/go/README.md)
 
 ### Architecture & Domain Modeling with Go Kit
 Peter Bourgon [[Twitter](https://twitter.com/peterbourgon)] [[LinkedIn](https://www.linkedin.com/in/peterbourgon/)]
@@ -141,7 +141,7 @@ Bryan C. Mills
 ### gRPC, State Machines, and… Testing?
 Amy Codes [[Twitter](https://twitter.com/theamycode)] [[LinkedIn](https://www.linkedin.com/in/theamycode/)]
 
-- Presentation
+- [Presentation](https://github.com/amy/Codes/tree/master/gRPC-StateMachines-Testing)
 - Video
 
 ### Computer Vision Using Go and OpenCV 3
@@ -160,7 +160,7 @@ Julia Ferraioli [[Twitter](https://twitter.com/juliaferraioli)] [[LinkedIn](http
 ### Going Serverless
 Kelsey Hightower [[Twitter](https://twitter.com/kelseyhightower)]
 
-- Presentation
+- [Presentation](https://github.com/kelseyhightower/gophercon-2018)
 - Video
 
 ### Go in Debian
@@ -178,7 +178,7 @@ Kevin Burke [[Twitter](https://twitter.com/derivativeburke)] [[LinkedIn](https:/
 ### From Prototype to Production: Lessons from building and scaling Reddit’s Ad Serving Platform
 Deval Shah [[Twitter](https://twitter.com/devalshah)] [[LinkedIn](https://www.linkedin.com/in/deval-shah-0aa1a82a/)]
 
-- Presentation
+- [Presentation](https://github.com/devalshah88/gophercon_talk)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and/)
 - Video
 
