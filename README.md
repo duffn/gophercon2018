@@ -82,6 +82,7 @@ Anthony Starks [[Twitter](https://twitter.com/ajstarks)] [[LinkedIn](https://www
 Francesc Campoy Flores [[Twitter](https://twitter.com/francesc)] [[LinkedIn](https://www.linkedin.com/in/campoy/)]
 
 - [Presentation](https://speakerdeck.com/campoy/machine-learning-on-go-code)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-machine-learning-in-go)
 - Video
 
 ### Asynchronous Networking Patterns
@@ -117,12 +118,14 @@ Eben Freeman [[Twitter](https://twitter.com/_emfree_)]
 Kaylyn Gibilterra [[Twitter](https://twitter.com/kgibilterra)] [[LinkedIn](https://www.linkedin.com/in/kgibilterra/)]
 
 - [Presentation](https://speakerdeck.com/kgibilterra/sorting-and-searching-algorithms)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms)
 - Video
 
 ### How to Write a Parser in Go
 Sugu Sougoumarane [[Twitter](https://twitter.com/ssougou)] [[LinkedIn](https://www.linkedin.com/in/sugu-sougoumarane-b9bb25/)]
 
 - Presentation
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-how-to-write-a-parser-in-go)
 - Video
 
 ### Go Says WAT?
@@ -142,6 +145,7 @@ Bryan C. Mills
 Amy Codes [[Twitter](https://twitter.com/theamycode)] [[LinkedIn](https://www.linkedin.com/in/theamycode/)]
 
 - [Presentation](https://github.com/amy/Codes/tree/master/gRPC-StateMachines-Testing)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-grpc-state-machines-and-testing)
 - Video
 
 ### Computer Vision Using Go and OpenCV 3
@@ -155,24 +159,28 @@ Ron Evans [[Twitter](https://twitter.com/deadprogram)] [[LinkedIn](https://www.l
 Julia Ferraioli [[Twitter](https://twitter.com/juliaferraioli)] [[LinkedIn](https://www.linkedin.com/in/juliaferraioli/)]
 
 - [Presentation](https://docs.google.com/document/d/1AsktP9tHph4a714YPoVtWOJ0QCb6eckh-2VtHpYSC6s/edit)
+- [Live Blog](https://about.sourcegraph.com/go/gophecon-2018-writing-accessible-go)
 - Video
 
 ### Going Serverless
 Kelsey Hightower [[Twitter](https://twitter.com/kelseyhightower)]
 
 - [Presentation](https://github.com/kelseyhightower/gophercon-2018)
+- [Live Blog](https://about.sourcegraph.com/go/)
 - Video
 
 ### Go in Debian
 Michael Stapelberg [[Twitter](https://twitter.com/zekjur)]
 
 - [Presentation](https://docs.google.com/presentation/d/1W0xjmh85A8DoGvQa2-MrLayyEec7ivArCus1YvruHiI/edit#slide=id.p)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-go-in-debian)
 - Video
 
 ### Becoming a Go Contributor
 Kevin Burke [[Twitter](https://twitter.com/derivativeburke)] [[LinkedIn](https://www.linkedin.com/in/ekrub/)]
 
 - [Presentation](https://kev.inburke.com/slides/becoming-go-contributor/)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-becoming-a-go-contributor)
 - Video
 
 ### From Prototype to Production: Lessons from building and scaling Reddit’s Ad Serving Platform
@@ -193,6 +201,7 @@ George Tankersley [[Twitter](https://twitter.com/gtank__)]
 Liz Rice [[Twitter](https://twitter.com/lizrice)] [[LinkedIn](https://www.linkedin.com/in/lizrice/)]
 
 - [Presentation](https://speakerdeck.com/lizrice/a-go-programmers-guide-to-secure-connections)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-go-programmers-guide-to-secure-connections)
 - Video
 
 ### 5 Mistakes C/C++ Devs Make While Writing Go
@@ -212,6 +221,7 @@ Kris Brandow [[Twitter](https://twitter.com/skriptble)] [[LinkedIn](https://www.
 Joshua Humphries [[LinkedIn](https://www.linkedin.com/in/jhumphries131/)]
 
 - Presentation
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-grpc-reflection-and-grpcurl)
 - Video
 
 ### Adventures in Cgo Performance
@@ -239,6 +249,7 @@ Matt Layher [[Twitter](https://twitter.com/mdlayher)]
 Natalie Pistunovich [[Twitter](https://twitter.com/nataliepis)] [[LinkedIn](https://www.linkedin.com/in/nataliepistunovich/)]
 
 - [Presentation](https://github.com/Pisush/Public-Speaking/blob/master/Slides/gopherconUS.pdf)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-importance-of-beginners)
 - Video
 
 ## Contributing
