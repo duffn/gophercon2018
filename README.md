@@ -29,7 +29,8 @@ Johnny Boursiquot [[Twitter](https://twitter.com/jboursiquot)] [[LinkedIn](https
 
 Carolyn Van Slyck [[Twitter](https://twitter.com/carolynvs)] [[LinkedIn](https://www.linkedin.com/in/vanslyck/)]
 
-- Presentation
+- [Presentation @jboursiquot](https://speakerdeck.com/jboursiquot/go-faas-a-story)
+- [Presentation @carolynvs](https://carolynvanslyck.com/talk/go/oss101/#/)
 
 ### Maching Learning
 Diana Ortega [[Twitter](https://twitter.com/dicaormu)] [[LinkedIn](https://www.linkedin.com/in/diana-ortega-727711a/)]
