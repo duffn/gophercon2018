@@ -139,7 +139,8 @@ Jon Bodner [[Twitter](https://twitter.com/jonbodner)] [[LinkedIn](https://www.li
 ### Rethinking Classical Concurrency Patterns
 Bryan C. Mills
 
-- Presentation
+- [Presentation](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
+- [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/)
 - Video
 
 ### gRPC, State Machines, and… Testing?
