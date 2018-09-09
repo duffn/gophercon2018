@@ -257,9 +257,9 @@ Natalie Pistunovich [[Twitter](https://twitter.com/nataliepis)] [[LinkedIn](http
 ## Lightning Talks
 
 ### Build your project with Mage
-Nate Finch
+Nate Finch [[Twitter](https://twitter.com/natethefinch)]
 
-- Presentation
+- [Presentation](https://docs.google.com/presentation/d/1RK9DqmJYRxLaTpg6gCr1b1yScmgDiem2Lk3UnjIAdKo/edit#slide=id.gcb9a0b074_1_0)
 - Video
 
 ### Lazy JSON Parsing
