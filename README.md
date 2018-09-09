@@ -279,7 +279,7 @@ Brett Buddin [[Twitter](https://twitter.com/brettbuddin)]
 ### Keeping Important Go Packages Alive
 Tim Heckman [[Twitter](https://twitter.com/theckman)]
 
-- Presentation
+- [Presentation](https://docs.google.com/presentation/d/1kJRDpd1Vhf2Pv3lvZS-s_C49_lb-75SsQcQ-AK5b_js/edit)
 - Video
 
 ### The nuclear option, go test -run=InQemu
@@ -381,7 +381,7 @@ Marwan Sulaiman
 ### Making the IoT Go
 David G. Simmons [[Twitter](https://twitter.com/davidgsIoT)] [[Web](https://davidgs.com/)]
 
-- [[Presentation](https://davidgs.com/LightningTalk.pdf)] (PDF)
+- [Presentation](https://davidgs.com/LightningTalk.pdf)
 - Video
 
 ### Helping .NET MSMQ apps to migrate to GO and Kubernetes
