@@ -264,9 +264,9 @@ Nate Finch [[Twitter](https://twitter.com/natethefinch)]
 - Video
 
 ### Lazy JSON Parsing
-Aidan Coyle
+Aidan Coyle 
 
-- Presentation
+- [Presentation](https://github.com/packrat386/lightning_talk/blob/master/talk_v1.slide)
 - Video
 
 ### Modular Audio Synthesis with Shaden
@@ -283,9 +283,9 @@ Tim Heckman [[Twitter](https://twitter.com/theckman)]
 - Video
 
 ### The nuclear option, go test -run=InQemu
-Brad Fitzpatrick
+Brad Fitzpatrick [[Twitter](https://twitter.com/bradfitz)]
 
-- Presentation
+- [Presentation](https://docs.google.com/presentation/d/1rAAyOTCsB8GLbMgI0CAbn69r6EVWL8j3DPl4qc0sSlc/edit#slide=id.p)
 - Video
 
 ### Managing Linux network namespaces before and after Go 1.10
@@ -295,13 +295,13 @@ Prateek Gogia
 - Video
 
 ### Immutable/persistent data structures in Go
-Paul Jolly
+Paul Jolly [[Twitter](https://twitter.com/_myitcv)]
 
-- Presentation
+- [Presentation](https://talks.godoc.org/github.com/myitcv/talks/2018-08-30-gophercon-lightning-immutable/main.slide#1)
 - Video
 
 ### Go FaaS - A Story
-Johnny Boursiquot
+Johnny Boursiquot [[Twitter](https://twitter.com/jboursiquot)]
 
 - Presentation
 - Video
