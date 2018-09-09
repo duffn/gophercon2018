@@ -269,14 +269,14 @@ Aidan Coyle
 - Video
 
 ### Modular Audio Synthesis with Shaden
-Brett Buddin [Twitter](https://twitter.com/brettbuddin)
+Brett Buddin [[Twitter](https://twitter.com/brettbuddin)]
 
 - Presentation
 - [Code](https://gist.github.com/brettbuddin/2fea8b4a2fa6164c82e5052ad01bf466)
 - Video
 
 ### Keeping Important Go Packages Alive
-Tim Heckman [Twitter](https://twitter.com/theckman)
+Tim Heckman [[Twitter](https://twitter.com/theckman)]
 
 - Presentation
 - Video
@@ -324,7 +324,7 @@ Daniel Martí
 - Video
 
 ### Linux, Netlink, and Go in 7 minutes or less!
-Matt Layher [Twitter](https://twitter.com/mdlayher)
+Matt Layher [[Twitter](https://twitter.com/mdlayher)]
 
 - [Presentation](https://github.com/mdlayher/talks/blob/master/gophercon2018/linux-netlink-and-go.pdf)
 - Video
@@ -336,7 +336,7 @@ Marcin Spoczynski
 - Video
 
 ### router7: a pure-Go home router
-Michael Stapelberg [Twitter](https://twitter.com/zekjur)
+Michael Stapelberg [[Twitter](https://twitter.com/zekjur)]
 
 - [Presentation](https://docs.google.com/presentation/d/1MZF-rASTzoZGf4kb2ymV19294sfg3DzVbsWVPoZFzsA/edit)
 - Video
@@ -348,7 +348,7 @@ Peter P. Gengler
 - Video
 
 ### The Container Network Interface and Go
-Nicolas Leiva [Twitter](https://twitter.com/nleiv4)
+Nicolas Leiva [[Twitter](https://twitter.com/nleiv4)]
 
 - [Presentation](https://docs.google.com/presentation/d/16kJz9k3l9jyLk6v0y0FMgPkXWa7rJadJ6v9nKbzAScQ/edit)
 - Video
@@ -366,7 +366,7 @@ Aaron Schlesinger
 - Video
 
 ### Decentralizing CI/CD Pipelines using Go
-Neil S Primmer [Twitter](https://twitter.com/neilprimmer)
+Neil S Primmer [[Twitter](https://twitter.com/neilprimmer)]
 
 - [Presentation](https://www.slideshare.net/NeilPrimmer/decentralizing-cicd-pipelines-in-go)
 - Video
@@ -408,7 +408,7 @@ Ramya Rao
 - Video
 
 ### Linux Delay Accounting
-André Carvalho [Twitter](https://twitter.com/andresantostc)
+André Carvalho [[Twitter](https://twitter.com/andresantostc)]
 
 - [Presentation](https://speakerdeck.com/andrestc/linux-delay-accounting)
 - Video
