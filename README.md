@@ -307,9 +307,9 @@ Johnny Boursiquot [[Twitter](https://twitter.com/jboursiquot)]
 - Video
 
 ### Geohash in Golang Assembly
-Michael McLoughlin
+Michael McLoughlin [[Twitter](https://twitter.com/mbmcloughlin)]
 
-- Presentation
+- [Presentation](https://speakerdeck.com/mmcloughlin/geohash-in-golang-assembly)
 - Video
 
 ### Observing Your Go Services
