@@ -254,7 +254,184 @@ Natalie Pistunovich [[Twitter](https://twitter.com/nataliepis)] [[LinkedIn](http
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-importance-of-beginners)
 - Video
 
+## Lightning Talks
+
+### Build your project with Mage
+Nate Finch
+
+- Presentation
+- Video
+
+### Lazy JSON Parsing
+Aidan Coyle
+
+- Presentation
+- Video
+
+### Modular Audio Synthesis with Shaden
+Brett Buddin [Twitter](https://twitter.com/brettbuddin)
+
+- Presentation
+- [Code](https://gist.github.com/brettbuddin/2fea8b4a2fa6164c82e5052ad01bf466)
+- Video
+
+### Keeping Important Go Packages Alive
+Tim Heckman [Twitter](https://twitter.com/theckman)
+
+- Presentation
+- Video
+
+### The nuclear option, go test -run=InQemu
+Brad Fitzpatrick
+
+- Presentation
+- Video
+
+### Managing Linux network namespaces before and after Go 1.10
+Prateek Gogia
+
+- Presentation
+- Video
+
+### Immutable/persistent data structures in Go
+Paul Jolly
+
+- Presentation
+- Video
+
+### Go FaaS - A Story
+Johnny Boursiquot
+
+- Presentation
+- Video
+
+### Geohash in Golang Assembly
+Michael McLoughlin
+
+- Presentation
+- Video
+
+### Observing Your Go Services
+Aditya Mukerjee
+
+- Presentation
+- Video
+
+### Code search tailored for Gophers
+Daniel Martí
+
+- Presentation
+- Video
+
+### Linux, Netlink, and Go in 7 minutes or less!
+Matt Layher [Twitter](https://twitter.com/mdlayher)
+
+- [Presentation](https://github.com/mdlayher/talks/blob/master/gophercon2018/linux-netlink-and-go.pdf)
+- Video
+
+### Dynamic distributed tracing for the Edge using Go
+Marcin Spoczynski
+
+- Presentation
+- Video
+
+### router7: a pure-Go home router
+Michael Stapelberg [Twitter](https://twitter.com/zekjur)
+
+- [Presentation](https://docs.google.com/presentation/d/1MZF-rASTzoZGf4kb2ymV19294sfg3DzVbsWVPoZFzsA/edit)
+- Video
+
+### A day in the life of rob Pike
+Peter P. Gengler
+
+- Presentation
+- Video
+
+### The Container Network Interface and Go
+Nicolas Leiva [Twitter](https://twitter.com/nleiv4)
+
+- [Presentation](https://docs.google.com/presentation/d/16kJz9k3l9jyLk6v0y0FMgPkXWa7rJadJ6v9nKbzAScQ/edit)
+- Video
+
+### RBAC Manager: Extending the Kubernetes API with a Custom Go Operator
+Rob Scott
+
+- Presentation
+- Video
+
+### Athens - the module proxy for Go
+Aaron Schlesinger
+
+- Presentation
+- Video
+
+### Decentralizing CI/CD Pipelines using Go
+Neil S Primmer [Twitter](https://twitter.com/neilprimmer)
+
+- [Presentation](https://www.slideshare.net/NeilPrimmer/decentralizing-cicd-pipelines-in-go)
+- Video
+
+### Migrating The Go Community
+Marwan Sulaiman
+
+- Presentation
+- Video
+
+### Making the IoT Go
+David G. Simmons
+
+- Presentation
+- Video
+
+### Helping .NET MSMQ apps to migrate to GO and Kubernetes
+liornabat
+
+- Presentation
+- Video
+
+### Roaming geofences with Tile38
+Josh Baker
+
+- Presentation
+- Video
+
+### Talking to the Docker Socket
+Hugo
+
+- Presentation
+- Video
+
+### What's new in VS Code for Go?
+Ramya Rao
+
+- Presentation
+- Video
+
+### Linux Delay Accounting
+André Carvalho [Twitter](https://twitter.com/andresantostc)
+
+- [Presentation](https://speakerdeck.com/andrestc/linux-delay-accounting)
+- Video
+
+### From REST to gRPC
+Anagha Todalbagi
+
+- Presentation
+- Video
+
+### Evans: more expressive gRPC client
+ktr
+
+- Presentation
+- Video
+
+### Web Session Management in Go -- A Tale of Two Sessions
+Alan Braithwaite
+
+- Presentation
+- Video
+
 ## Contributing
-If you have the link to a presentation or Sourcegraph live blog that is not currently included, please feel free to open a PR.
+If you have the link to a presentation, Sourcegraph live blog or anything lightning talk related that is not currently included, please feel free to open a PR.
 
 I will add videos once they are up, which should be 1-2 weeks after the conference.
