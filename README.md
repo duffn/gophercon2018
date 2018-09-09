@@ -361,7 +361,7 @@ Rob Scott
 - Video
 
 ### Athens - the module proxy for Go
-Aaron Schlesinger
+Aaron Schlesinger [[Twitter](https://twitter.com/arschles)]
 
 - Presentation
 - Video
@@ -391,9 +391,10 @@ liornabat
 - Video
 
 ### Roaming geofences with Tile38
-Josh Baker
+Josh Baker [[Twitter](https://twitter.com/tidwall)]
 
 - Presentation
+- [Code](https://github.com/tidwall/tile38)
 - Video
 
 ### Talking to the Docker Socket
@@ -403,7 +404,7 @@ Hugo
 - Video
 
 ### What's new in VS Code for Go?
-Ramya Rao
+Ramya Rao [[Twitter](https://twitter.com/ramyanexus)]
 
 - Presentation
 - Video
@@ -427,9 +428,10 @@ ktr
 - Video
 
 ### Web Session Management in Go -- A Tale of Two Sessions
-Alan Braithwaite
+Alan Braithwaite [[Twitter](https://twitter.com/Caust1c)]
 
 - Presentation
+- [Code](https://github.com/abraithwaite/jeff)
 - Video
 
 ## Contributing
