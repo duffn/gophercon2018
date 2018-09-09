@@ -379,9 +379,9 @@ Marwan Sulaiman
 - Video
 
 ### Making the IoT Go
-David G. Simmons
+David G. Simmons [[Twitter](https://twitter.com/davidgsIoT)] [[Web](https://davidgs.com/)]
 
-- Presentation
+- [[Presentation](https://davidgs.com/LightningTalk.pdf)] (PDF)
 - Video
 
 ### Helping .NET MSMQ apps to migrate to GO and Kubernetes
