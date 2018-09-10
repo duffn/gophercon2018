@@ -97,6 +97,7 @@ Filippo Valsorda [[Twitter](https://twitter.com/FiloSottile)]
 Kat Zien [[Twitter](https://twitter.com/kasiazien)] [[LinkedIn](https://www.linkedin.com/in/katzien/)]
 
 - [Presentation](https://github.com/katzien/talks/blob/master/how-do-you-structure-your-go-apps/gophercondenver-2018-08-28/slides.pdf)
+- [Code](https://github.com/katzien/go-structure-examples)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-how-do-you-structure-your-go-apps)
 - Video
 
