@@ -342,7 +342,7 @@ Michael Stapelberg [[Twitter](https://twitter.com/zekjur)]
 - [Presentation](https://docs.google.com/presentation/d/1MZF-rASTzoZGf4kb2ymV19294sfg3DzVbsWVPoZFzsA/edit)
 - Video
 
-### A day in the life of rob Pike
+### A day in the life of Rob Pike
 Peter P. Gengler
 
 - Presentation
