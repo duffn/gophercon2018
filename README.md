@@ -434,6 +434,14 @@ Alan Braithwaite [[Twitter](https://twitter.com/Caust1c)]
 - [Code](https://github.com/abraithwaite/jeff)
 - Video
 
+### Code it like it's 1995
+Kat Zień [[Twitter](https://twitter.com/kasiazien)]
+
+- [Presentation](https://github.com/katzien/talks/blob/master/code-it-like-its-1995/gophercondenver-2018-08-30/slides.pdf)
+- [Code](https://github.com/katzien/talks/tree/master/code-it-like-its-1995/gophercondenver-2018-08-30/code)
+- [Demo](http://katzien.com/gophercon-website/) 
+- Video
+
 ## Contributing
 If you have the link to a presentation, Sourcegraph live blog or anything lightning talk related that is not currently included, please feel free to open a PR.
 
