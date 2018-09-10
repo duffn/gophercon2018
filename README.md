@@ -97,6 +97,7 @@ Filippo Valsorda [[Twitter](https://twitter.com/FiloSottile)]
 Kat Zien [[Twitter](https://twitter.com/kasiazien)] [[LinkedIn](https://www.linkedin.com/in/katzien/)]
 
 - [Presentation](https://github.com/katzien/talks/blob/master/how-do-you-structure-your-go-apps/gophercondenver-2018-08-28/slides.pdf)
+- [Code](https://github.com/katzien/go-structure-examples)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-how-do-you-structure-your-go-apps)
 - Video
 
@@ -342,7 +343,7 @@ Michael Stapelberg [[Twitter](https://twitter.com/zekjur)]
 - [Presentation](https://docs.google.com/presentation/d/1MZF-rASTzoZGf4kb2ymV19294sfg3DzVbsWVPoZFzsA/edit)
 - Video
 
-### A day in the life of rob Pike
+### A day in the life of Rob Pike
 Peter P. Gengler
 
 - Presentation
@@ -432,6 +433,14 @@ Alan Braithwaite [[Twitter](https://twitter.com/Caust1c)]
 
 - Presentation
 - [Code](https://github.com/abraithwaite/jeff)
+- Video
+
+### Code it like it's 1995
+Kat Zień [[Twitter](https://twitter.com/kasiazien)]
+
+- [Presentation](https://github.com/katzien/talks/blob/master/code-it-like-its-1995/gophercondenver-2018-08-30/slides.pdf)
+- [Code](https://github.com/katzien/talks/tree/master/code-it-like-its-1995/gophercondenver-2018-08-30/code)
+- [Demo](http://katzien.com/gophercon-website/) 
 - Video
 
 ## Contributing
