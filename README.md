@@ -423,9 +423,11 @@ Anagha Todalbagi
 - Video
 
 ### Evans: more expressive gRPC client
-ktr
+ktr [[Twitter](https://twitter.com/ktr_0731)] [[LinkedIn]](https://www.linkedin.com/in/taro-aoki-68b80a120/)
 
-- Presentation
+- [Presentation](https://speakerdeck.com/ktr_0731/evans-more-expressive-grpc-client-1)
+- [Evans](https://github.com/ktr0731/evans)
+- [Code](https://github.com/ktr0731/gophercon-2018-lt-demo)
 - Video
 
 ### Web Session Management in Go -- A Tale of Two Sessions
