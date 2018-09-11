@@ -444,8 +444,3 @@ Kat Zień [[Twitter](https://twitter.com/kasiazien)]
 - [Code](https://github.com/katzien/talks/tree/master/code-it-like-its-1995/gophercondenver-2018-08-30/code)
 - [Demo](http://katzien.com/gophercon-website/) 
 - [Video](https://www.youtube.com/watch?v=bOmc2mWwnds)
-
-## Contributing
-If you have the link to a presentation, Sourcegraph live blog or anything lightning talk related that is not currently included, please feel free to open a PR.
-
-I will add videos once they are up, which should be 1-2 weeks after the conference.
