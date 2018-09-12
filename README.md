@@ -311,7 +311,7 @@ Johnny Boursiquot [[Twitter](https://twitter.com/jboursiquot)]
 Michael McLoughlin [[Twitter](https://twitter.com/mbmcloughlin)]
 
 - [Presentation](https://speakerdeck.com/mmcloughlin/geohash-in-golang-assembly)
-- Video
+- [Video](https://www.youtube.com/watch?v=KrsydfpDoeg)
 
 ### Observing Your Go Services
 Aditya Mukerjee
