@@ -293,7 +293,7 @@ Brad Fitzpatrick [[Twitter](https://twitter.com/bradfitz)]
 Prateek Gogia
 
 - Presentation
-- Video
+- [Video](https://www.youtube.com/watch?v=T_9nF_qlM1Y)
 
 ### Immutable/persistent data structures in Go
 Paul Jolly [[Twitter](https://twitter.com/_myitcv)]
