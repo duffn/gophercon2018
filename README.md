@@ -63,35 +63,35 @@ Kavya Joshi [[Twitter](https://twitter.com/kavya719)] [[LinkedIn](https://www.li
 
 - [Presentation](https://speakerdeck.com/kavya719/the-scheduler-saga)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-scheduler-saga)
-- [Video](https://www.youtube.com/watch?v=NjMGHrM2cc0)
+- [Video](https://www.youtube.com/watch?v=2iXiUEc7CHU)
 
 ### An Over-Engineering Disaster with Macaroons
 Tess Rinearson [[Twitter](https://twitter.com/_tessr)] [[LinkedIn](https://www.linkedin.com/in/temiri/)]
 
 - [Presentation](https://speakerdeck.com/tessr/an-over-engineering-disaster-with-macaroons)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-an-over-engineering-disaster-with-macaroons)
-- [Video](https://www.youtube.com/watch?v=Lh32-NdYo6Y)
+- [Video](https://www.youtube.com/watch?v=MZFv62qz8RU)
 
 ### Go for Information Displays
 Anthony Starks [[Twitter](https://twitter.com/ajstarks)] [[LinkedIn](https://www.linkedin.com/in/ajstarks/)]
 
 - [Presentation](https://speakerdeck.com/ajstarks/go-for-information-displays-gophercon-edition)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-go-for-information-displays)
-- [Video](https://www.youtube.com/watch?v=1I9b3FMY7YU)
+- [Video](https://www.youtube.com/watch?v=NyDNJnioWhI)
 
 ### Machine Learning on Go Code
 Francesc Campoy Flores [[Twitter](https://twitter.com/francesc)] [[LinkedIn](https://www.linkedin.com/in/campoy/)]
 
 - [Presentation](https://speakerdeck.com/campoy/machine-learning-on-go-code)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-machine-learning-in-go)
-- Video
+- [Video](https://www.youtube.com/watch?v=Lt3qZAwQX3w)
 
 ### Asynchronous Networking Patterns
 Filippo Valsorda [[Twitter](https://twitter.com/FiloSottile)]
 
 - [Presentation](https://speakerdeck.com/filosottile/asynchronous-networking-at-gophercon-2018)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-asynchronous-networking-patterns)
-- [Video](https://www.youtube.com/watch?v=aJy2ip9FpFs)
+- [Video](https://www.youtube.com/watch?v=afSiVelXDTQ)
 
 ### How Do You Structure Your Go Apps?
 Kat Zien [[Twitter](https://twitter.com/kasiazien)] [[LinkedIn](https://www.linkedin.com/in/katzien/)]
@@ -106,7 +106,7 @@ Hunter Loftis [[Twitter](https://twitter.com/hunterloftis)] [[LinkedIn](https://
 
 - [Presentation](https://www.slideshare.net/HunterLoftis1/painting-with-light-3d-rendering-in-golang)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-painting-with-light)
-- [Video](https://www.youtube.com/watch?v=4X06yu9GzDo)
+- [Video](https://www.youtube.com/watch?v=jRAMCzbXteA)
 
 ### Allocator Wrestling
 Eben Freeman [[Twitter](https://twitter.com/_emfree_)]
@@ -128,7 +128,7 @@ Sugu Sougoumarane [[Twitter](https://twitter.com/ssougou)] [[LinkedIn](https://w
 
 - Presentation
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-how-to-write-a-parser-in-go)
-- [Video](https://www.youtube.com/watch?v=tVpaSOGMeq4)
+- [Video](https://www.youtube.com/watch?v=NG0s3-s3whY)
 
 ### Go Says WAT?
 Jon Bodner [[Twitter](https://twitter.com/jonbodner)] [[LinkedIn](https://www.linkedin.com/in/jonbodner/)]
@@ -142,7 +142,7 @@ Bryan C. Mills
 
 - [Presentation](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/)
-- [Video](https://www.youtube.com/watch?v=cp3omkhSLRc)
+- [Video](https://www.youtube.com/watch?v=5zXAHh5tJqQ)
 
 ### gRPC, State Machines, and… Testing?
 Amy Codes [[Twitter](https://twitter.com/theamycode)] [[LinkedIn](https://www.linkedin.com/in/theamycode/)]
@@ -156,35 +156,35 @@ Ron Evans [[Twitter](https://twitter.com/deadprogram)] [[LinkedIn](https://www.l
 
 - Presentation
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-computer-vision-using-go-and-opencv-3)
-- [Video](https://www.youtube.com/watch?v=ciJCmZGykVg)
+- [Video](https://www.youtube.com/watch?v=Y_7Gn-WH5x0)
 
 ### Writing Accessible Go
 Julia Ferraioli [[Twitter](https://twitter.com/juliaferraioli)] [[LinkedIn](https://www.linkedin.com/in/juliaferraioli/)]
 
 - [Presentation](https://docs.google.com/document/d/1AsktP9tHph4a714YPoVtWOJ0QCb6eckh-2VtHpYSC6s/edit)
 - [Live Blog](https://about.sourcegraph.com/go/gophecon-2018-writing-accessible-go)
-- [Video](https://www.youtube.com/watch?v=sKJkloZcAAs)
+- [Video](https://www.youtube.com/watch?v=cVaDY0ChvOQ)
 
 ### Going Serverless
 Kelsey Hightower [[Twitter](https://twitter.com/kelseyhightower)]
 
 - [Presentation](https://github.com/kelseyhightower/gophercon-2018)
 - [Live Blog](https://about.sourcegraph.com/go/)
-- [Video](https://www.youtube.com/watch?v=laz6ghZv-ZU)
+- [Video](https://www.youtube.com/watch?v=U7glyWYj4qg)
 
 ### Go in Debian
 Michael Stapelberg [[Twitter](https://twitter.com/zekjur)]
 
 - [Presentation](https://docs.google.com/presentation/d/1W0xjmh85A8DoGvQa2-MrLayyEec7ivArCus1YvruHiI/edit#slide=id.p)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-go-in-debian)
-- [Video](https://www.youtube.com/watch?v=xQNWrFw2bQw)
+- [Video](https://www.youtube.com/watch?v=A1QNlu1eiBc)
 
 ### Becoming a Go Contributor
 Kevin Burke [[Twitter](https://twitter.com/derivativeburke)] [[LinkedIn](https://www.linkedin.com/in/ekrub/)]
 
 - [Presentation](https://kev.inburke.com/slides/becoming-go-contributor/)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-becoming-a-go-contributor)
-- [Video](https://www.youtube.com/watch?v=N7y4zVvaAsE)
+- [Video](https://www.youtube.com/watch?v=HZYrSIC6LFA)
 
 ### From Prototype to Production: Lessons from building and scaling Reddit’s Ad Serving Platform
 Deval Shah [[Twitter](https://twitter.com/devalshah)] [[LinkedIn](https://www.linkedin.com/in/deval-shah-0aa1a82a/)]
@@ -205,7 +205,7 @@ Liz Rice [[Twitter](https://twitter.com/lizrice)] [[LinkedIn](https://www.linked
 
 - [Presentation](https://speakerdeck.com/lizrice/a-go-programmers-guide-to-secure-connections)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-go-programmers-guide-to-secure-connections)
-- [Video](https://www.youtube.com/watch?v=PdJVdqIlgd8)
+- [Video](https://www.youtube.com/watch?v=kxKLYDLzuHA)
 
 ### 5 Mistakes C/C++ Devs Make While Writing Go
 Nyah Check [[Twitter](https://twitter.com/nyah_check)] [[LinkedIn](https://www.linkedin.com/in/nyahcheck/)]
@@ -232,7 +232,7 @@ Sean T. Allen [[Twitter](https://twitter.com/SeanTAllen)] [[LinkedIn](https://ww
 
 - [Presentation](https://github.com/SeanTAllen/adventures-in-cgo-performance)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-adventures-in-cgo-performance/)
-- [Video](https://www.youtube.com/watch?v=uu8lz3EG2AU)
+- [Video](https://www.youtube.com/watch?v=71ggzBeHdmA)
 
 ### C L Eye-Catching User Interfaces
 James Bowes [[Twitter](https://twitter.com/jrbowes)] [[LinkedIn](https://www.linkedin.com/in/jbowes/)]
@@ -253,7 +253,7 @@ Natalie Pistunovich [[Twitter](https://twitter.com/nataliepis)] [[LinkedIn](http
 
 - [Presentation](https://github.com/Pisush/Public-Speaking/blob/master/Slides/gopherconUS.pdf)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-importance-of-beginners)
-- [Video](https://www.youtube.com/watch?v=9jTOs_mJDgE)
+- [Video](https://www.youtube.com/watch?v=7yMXs9TRvVI)
 
 ## Lightning Talks
 
