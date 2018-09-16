@@ -63,7 +63,7 @@ Kavya Joshi [[Twitter](https://twitter.com/kavya719)] [[LinkedIn](https://www.li
 
 - [Presentation](https://speakerdeck.com/kavya719/the-scheduler-saga)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-the-scheduler-saga)
-- [Video](https://www.youtube.com/watch?v=2iXiUEc7CHU)
+- [Video](https://www.youtube.com/watch?v=YHRO5WQGh0k)
 
 ### An Over-Engineering Disaster with Macaroons
 Tess Rinearson [[Twitter](https://twitter.com/_tessr)] [[LinkedIn](https://www.linkedin.com/in/temiri/)]
