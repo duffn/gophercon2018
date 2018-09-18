@@ -246,7 +246,7 @@ Matt Layher [[Twitter](https://twitter.com/mdlayher)]
 
 - [Presentation](https://github.com/mdlayher/talks/tree/master/gophercon2018)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go/)
-- [Video](https://www.youtube.com/watch?v=tw-9fNygYE4)
+- [Video](https://www.youtube.com/watch?v=pUaFW98V1Sc)
 
 ### The Importance of Beginners
 Natalie Pistunovich [[Twitter](https://twitter.com/nataliepis)] [[LinkedIn](https://www.linkedin.com/in/nataliepistunovich/)]
