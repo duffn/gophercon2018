@@ -218,7 +218,7 @@ Nyah Check [[Twitter](https://twitter.com/nyah_check)] [[LinkedIn](https://www.l
 Kris Brandow [[Twitter](https://twitter.com/skriptble)] [[LinkedIn](https://www.linkedin.com/in/kristoferbrandow/)]
 
 - Presentation
-- [Video](https://www.youtube.com/watch?v=I1gDSjFSZNg)
+- [Video](https://www.youtube.com/watch?v=L7TSvjES81U)
 
 ### gRPC reflection and grpcurl
 Joshua Humphries [[LinkedIn](https://www.linkedin.com/in/jhumphries131/)]
