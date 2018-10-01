@@ -196,7 +196,7 @@ Deval Shah [[Twitter](https://twitter.com/devalshah)] [[LinkedIn](https://www.li
 ### Micro-optimizing Go Code
 George Tankersley [[Twitter](https://twitter.com/gtank__)]
 
-- Presentation
+- [Presentation](https://speakerdeck.com/gtank/micro-optimizing-go-code)
 - [Live Blog](https://about.sourcegraph.com/go/gophercon-2018-micro-optimizing-go-code/)
 - [Video](https://www.youtube.com/watch?v=keydVd-Zn80)
 
